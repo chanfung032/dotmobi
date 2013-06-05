@@ -1,3 +1,5 @@
+# vi: filetype=python
+
 import sys, os.path
 sys.path.insert(0, os.path.abspath('site-packages'))
 
